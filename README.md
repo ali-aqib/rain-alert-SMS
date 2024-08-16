@@ -12,7 +12,7 @@
 - Insert the above credentials at line 5, 6, 9 of main.py as a string.
 - Insert the twilio contact number and receiver's contact number at line 36, 37 of main.py as a string.
 - Enter your co-ordinates at line 14, 15.
-- Upon running the main.py, openweathermap.org API fetches the weather forecast from 9AM to 6AM
+- Upon running the main.py, openweathermap.org API fetches the weather forecast from 9AM to 6PM
 - If there are chances of rain then you will receive the SMS on your mobile through twilio.
 - For testing enter the co-ordinates of the location where it is raining currently. To check the current raining locations got to ventusky.com and click on precipitation.
 
